@@ -23,7 +23,7 @@ const Table = () => {
         <input placeholder="Order Id and Transaction Id" className="w-[17rem] h-[2rem] border rounded-lg"/>
         <div className="flex flex-row gap-x-3 ">
           <div className="flex flex-row  w-[5rem] h-[2rem] gap-x-2 p-1 border rounded-lg">
-            <button>Sort</button>
+            <button className="w-[2rem]">Sort</button>
            
           </div>
           <div><Download/></div>
