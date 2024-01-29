@@ -49,7 +49,7 @@ const Table = () => {
             </div>
           </button>
 
-          <button className="w-[2.5rem] border rounded-md p-2">
+          <button className="w-[2.5rem] border rounded-md">
             <div>
               <Download />
             </div>
