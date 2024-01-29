@@ -42,7 +42,7 @@ const Table = () => {
         </div>
 
         <div className="flex flex-row gap-x-3 ">
-          <button className="flex flex-row gap-x-2 border w-[5rem] p-1 rounded-md">
+          <button className="flex flex-row gap-x-2 border w-[5rem] rounded-md">
             <h2 className="font-light text-lg">Sort</h2>
             <div>
               <ArrowDownUp className="w-[1rem] mt-1" />
