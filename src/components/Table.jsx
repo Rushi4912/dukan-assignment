@@ -1,6 +1,5 @@
 import { ArrowDownUp } from "lucide-react";
 import { Download } from "lucide-react";
-import { Search } from "lucide-react";
 
 const Table = () => {
   return (

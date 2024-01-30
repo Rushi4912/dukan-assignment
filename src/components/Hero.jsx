@@ -8,7 +8,7 @@ const Hero = () => {
       <div className="flex flex-row  gap-x-10 mt-10 justify-between">
         <h2 className="text-xl font-normal ml-10">Overwiew</h2>
 
-        <div className="flex flex-row mr-10 border w-[8rem]  h-[2rem] p-1 rounded-md">
+        <div className="flex flex-row mr-10 border w-[8rem]  h-[2rem] p-1 rounded-md p-2">
           <h2>This Month</h2>
           <div>
             <ChevronDown />
