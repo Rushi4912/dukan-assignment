@@ -9,7 +9,7 @@ const Nav = () => {
         <h2>Payouts</h2>
         <div className="flex flex-row gap-x-2">
           <div>
-            <HelpCircle className="w-[1rem] h-[1rem] m-1" />
+            <HelpCircle className="w-[1rem] h-[1rem] m-1 p-2" />
           </div>
           <h3>How its works</h3>
         </div>
