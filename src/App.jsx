@@ -7,7 +7,7 @@ function App() {
 
   return (
 
-    <div className='flex flex-col container'>
+    <div className='flex flex-col '>
 
       <Nav/>
       <Hero/>
