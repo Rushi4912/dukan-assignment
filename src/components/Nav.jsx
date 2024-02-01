@@ -22,11 +22,12 @@ const Nav = () => {
           <MessageSquareMore  className="w-[2rem] m-1"/>
         </div>
         <div className="w-[2.5rem] h-[2.5rem] border rounded-full bg-gray-200">
-          <ChevronDownCircle className="w-[2rem] m-1" />
+          <ChevronDownCircle className="w-[2rem] " />
         </div>
       </div>
     </div>
   );
 };
 
-export default Nav;
+export default Nav;;
+
